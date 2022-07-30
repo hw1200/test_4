@@ -1,0 +1,5 @@
+﻿  main.c
+D:\ABC\C++\project_1\Day_3\Project_1\Project_1\main.c(111,13): warning C4013: “gets”未定义；假设外部返回 int
+D:\ABC\C++\project_1\Day_3\Project_1\Project_1\main.c(111,26): warning C4047: “!=”:“int”与“void *”的间接级别不同
+D:\ABC\C++\project_1\Day_3\Project_1\Project_1\main.c(130,26): warning C4047: “!=”:“int”与“void *”的间接级别不同
+  Project_1.vcxproj -> D:\ABC\C++\project_1\Day_3\Project_1\Debug\Project_1.exe
